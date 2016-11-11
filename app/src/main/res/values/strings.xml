@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">驾车路径规划</string>
+
+    <string name="route_demo">路径规划</string>
+
+    <string name="no_result">对不起，没有搜索到相关数据！</string>
+</resources>

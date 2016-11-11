@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_86c4d2b75b0910958510f98c6a545be7df90e993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0f890faa14a6d6f80b1692fad25766db6fe09fcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_f6b63e1b2e35648286ffeba764a5a51f7fe4669a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_d17bdb4a279b2ae6367b2ab8d70f7a52f905dbfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_68e8f6ccbfb781c44df40862e379a38f12d4baf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_99d10783c3b1c47f97edb6bab66650bccb3a3fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_fa1c854875e32468f384ce1cfd34b9680ae1218b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_04c86312f99d1dba71d8aa7ff5224e2f50fa861d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_620af8fdcecb0362e87a60d41bbd960533db96ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/.gradle/caches/modules-2/files-2.1/com.amap.api/search/3.5.0.1/c92af2298bc2eac395e05139bcfe1a1a51677726/search-3.5.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c92af2298bc2eac395e05139bcfe1a1a51677726">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/search-3.5.0.1_1dea9aa107431d324c3dd3789dcfd4f4ab3e094c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/.gradle/caches/modules-2/files-2.1/com.amap.api/location/3.1.0/bd57103bd88f0f9ae21c8531cc18c6dce172cc2a/location-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd57103bd88f0f9ae21c8531cc18c6dce172cc2a">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/location-3.1.0_1661159b30db4ee1631722f839b59faad57bf1f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_c7f5d0ec1830c8cf047b1d7b192ecd62cad65418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_897f946d8f6dffd65843cf9a1f22ed853c615c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_c16491e6b8c758f455735e42ef643a27f3e91ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_deb1b3780b09dc7166abfca2308369cf5dd99d37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_ee901c970ab9462676ce89f6847cf15bb1861288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_69f4199ec2022ab15fa0b269dc7e8b7abe7d514a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1e6506e481a6d9ba8f01722e263104d182e6b33b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_a7929bfcffbdba66842e289f665ec4bb915a8aac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c3c1b54f721bd39621d995fa087ee6a9e628333a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_4fc3f9f422b6f960579e9312886c0a82c814f152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ba24cacfd787b274b7621b30c641563af138fd5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_4e61c309a22b28f87618e578b2a2ec0f4300a969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_a6c88d8b7cc86916891d7b6d24461d1f3b3bc0d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_6ddd38e168f87df36d9de9e9beca2d7c49f461d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/.gradle/caches/modules-2/files-2.1/com.amap.api/map3d/4.1.2.1/2f1fa1d79c716b42336b4874e024c075a4930d0/map3d-4.1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="02f1fa1d79c716b42336b4874e024c075a4930d0">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/map3d-4.1.2.1_66331613b89afb04c2ee1bfade95b3edabb8d6f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_e73fd52c453e422003bc267e330a7b462aef3b4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_017f74488e539ef00d8e5551e51670013ab0a388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_28695da413ed177ba6e06b7f3604d297df1c09e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4f5be3def16b9b205c986749174710627233686b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-drive-route/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_63e6c5ab9ca9ac588c92a06bf22e768878403657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/guibao/Documents/project/amap/driveroute/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_4f75e42843aa847102aec1c78e230e8fb7b945d9.jar" />
+    </item>
+
+</items>
