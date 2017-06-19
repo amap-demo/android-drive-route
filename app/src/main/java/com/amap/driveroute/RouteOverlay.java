@@ -147,6 +147,11 @@ public class RouteOverlay {
 		LatLngBounds.Builder b = LatLngBounds.builder();
 		b.include(new LatLng(startPoint.latitude, startPoint.longitude));
 		b.include(new LatLng(endPoint.latitude, endPoint.longitude));
+		for (Polyline polyline : allPolyLines){
+			for (LatLng point : polyline.getPoints()){
+				b.include(point);
+			}
+		}
 		return b.build();
 	}
 	/**

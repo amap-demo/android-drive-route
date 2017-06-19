@@ -34,8 +34,6 @@ public class MainActivity extends AppCompatActivity implements AMap.OnMapClickLi
     private Context mContext;
     private RouteSearch mRouteSearch;
     private DriveRouteResult mDriveRouteResult;
-    private BusRouteResult mBusRouteResult;
-    private WalkRouteResult mWalkRouteResult;
     private LatLonPoint mStartPoint = new LatLonPoint(39.942295, 116.335891);//起点，116.335891,39.942295
     private LatLonPoint mEndPoint = new LatLonPoint(39.995576, 116.481288);//终点，116.481288,39.995576
     private LatLonPoint mStartPoint_bus = new LatLonPoint(40.818311, 111.670801);//起点，111.670801,40.818311
@@ -48,7 +46,6 @@ public class MainActivity extends AppCompatActivity implements AMap.OnMapClickLi
 
     private RelativeLayout mBottomLayout;
     private TextView mRotueTimeDes, mRouteDetailDes;
-    private ListView mBusResultList;
     private ProgressDialog progDialog = null;// 搜索时进度条
 
     @Override
@@ -59,10 +56,7 @@ public class MainActivity extends AppCompatActivity implements AMap.OnMapClickLi
         mapView = (MapView) findViewById(R.id.route_map);
         mapView.onCreate(savedInstanceState);// 此方法必须重写
         init();
-//		getIntentData();
         setfromandtoMarker();
-
-
     }
 
     private void setfromandtoMarker() {
@@ -99,7 +93,7 @@ public class MainActivity extends AppCompatActivity implements AMap.OnMapClickLi
     }
 
     public void onDriveClick(View view) {
-        searchRouteResult(ROUTE_TYPE_DRIVE, RouteSearch.DrivingDefault);
+        searchRouteResult(ROUTE_TYPE_DRIVE, RouteSearch.DRIVING_SINGLE_DEFAULT);
         mapView.setVisibility(View.VISIBLE);
     }
 
@@ -117,29 +111,12 @@ public class MainActivity extends AppCompatActivity implements AMap.OnMapClickLi
         showProgressDialog();
         final RouteSearch.FromAndTo fromAndTo = new RouteSearch.FromAndTo(
                 mStartPoint, mEndPoint);
-        if (routeType == ROUTE_TYPE_BUS) {// 公交路径规划
-            RouteSearch.BusRouteQuery query = new RouteSearch.BusRouteQuery(fromAndTo, mode,
-                    mCurrentCityName, 0);// 第一个参数表示路径规划的起点和终点，第二个参数表示公交查询模式，第三个参数表示公交查询城市区号，第四个参数表示是否计算夜班车，0表示不计算
-            mRouteSearch.calculateBusRouteAsyn(query);// 异步路径规划公交模式查询
-        } else if (routeType == ROUTE_TYPE_DRIVE) {// 驾车路径规划
+        if (routeType == ROUTE_TYPE_DRIVE) {// 驾车路径规划
             RouteSearch.DriveRouteQuery query = new RouteSearch.DriveRouteQuery(fromAndTo, mode, null,
                     null, "");// 第一个参数表示路径规划的起点和终点，第二个参数表示驾车模式，第三个参数表示途经点，第四个参数表示避让区域，第五个参数表示避让道路
             mRouteSearch.calculateDriveRouteAsyn(query);// 异步路径规划驾车模式查询
-        } else if (routeType == ROUTE_TYPE_WALK) {// 步行路径规划
-            RouteSearch.WalkRouteQuery query = new RouteSearch.WalkRouteQuery(fromAndTo, mode);
-            mRouteSearch.calculateWalkRouteAsyn(query);// 异步路径规划步行模式查询
-        } else if (routeType == ROUTE_TYPE_CROSSTOWN) {
-            RouteSearch.FromAndTo fromAndTo_bus = new RouteSearch.FromAndTo(
-                    mStartPoint_bus, mEndPoint_bus);
-            RouteSearch.BusRouteQuery query = new RouteSearch.BusRouteQuery(fromAndTo_bus, mode,
-                    "呼和浩特市", 0);// 第一个参数表示路径规划的起点和终点，第二个参数表示公交查询模式，第三个参数表示公交查询城市区号，第四个参数表示是否计算夜班车，0表示不计算
-//            query.setCityd("农安县");
-            mRouteSearch.calculateBusRouteAsyn(query);// 异步路径规划公交模式查询
         }
     }
-
-
-
 
     @Override
     public void onMapClick(LatLng latLng) {
