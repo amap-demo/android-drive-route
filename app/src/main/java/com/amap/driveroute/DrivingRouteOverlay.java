@@ -184,7 +184,7 @@ public class DrivingRouteOverlay extends RouteOverlay{
         	int color = getcolor(segmentTrafficStatus.getStatus());
             bitmapDescriptor = getTrafficBitmapDescriptor(segmentTrafficStatus.getStatus());
         	List<LatLonPoint> mployline = segmentTrafficStatus.getPolyline();
-			for (int j = 1; j < mployline.size(); j++) {
+			for (int j = 0; j < mployline.size(); j++) {
 //				mPolylineOptionscolor.add(AMapUtil.convertToLatLng(mployline.get(j)));
 				points.add(AMapUtil.convertToLatLng(mployline.get(j)));
 
